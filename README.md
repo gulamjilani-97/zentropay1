@@ -1,6 +1,6 @@
 
 # 💳 Zentropay – Personal Budget & Finance Manager  
-🚀 **Live Demo**: [Zentropay](#) *([Add your live link here](https://zentropay1.vercel.app/))*
+🚀 **Live Demo**: [https://zentropay1.vercel.app](https://zentropay1.vercel.app)
 
 ---
 
@@ -87,7 +87,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-* 📩 Email: \[[gulamjilanishaikkh885@gmail.com](mailto:your-email@example.com)]
+* 📩 Email: [gulamjilanishaikkh885@gmail.com](mailto:gulamjilanishaikkh885@gmail.com)
 * 🧑‍💻 GitHub: [gulamjilani-97](https://github.com/gulamjilani-97)
 
 ---
@@ -96,7 +96,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ```
 
----
 
-Would you like a `CONTRIBUTING.md` file or deployment instructions (e.g., for Vercel or Netlify) as well?
-```
