@@ -94,6 +94,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 💼 Manage your money the smart way with **Zentropay**.
 
-```
+
 
 
