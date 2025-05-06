@@ -1,8 +1,4 @@
-Absolutely! Here's a clean, engaging, and professional `README.md` file for **Zentropay**, styled like the one you liked for Piggytrack:
 
----
-
-````markdown
 # 💳 Zentropay – Personal Budget & Finance Manager  
 🚀 **Live Demo**: [Zentropay](#) *(Add your live link here)*
 
@@ -91,7 +87,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-* 📩 Email: \[[your-email@example.com](mailto:your-email@example.com)]
+* 📩 Email: \[gulamjilanishaikkh885@gmail.com](mailto:your-email@example.com)]
 * 🧑‍💻 GitHub: [gulamjilani-97](https://github.com/gulamjilani-97)
 
 ---
